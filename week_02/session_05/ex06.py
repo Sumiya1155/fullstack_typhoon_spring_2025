@@ -8,4 +8,4 @@ data = [
      ["Барсаа" , 88]
 ]
 print("_" *30)
- 
+print(f"headers[0]:<10}") 
